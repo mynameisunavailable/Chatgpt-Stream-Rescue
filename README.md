@@ -1,7 +1,9 @@
 ChatGPT Stream Rescue
 
 Instantly restores the last ChatGPT assistant reply lost due to moderation.
+
 <img src="images/Promotion icon.png" alt="promo" width="420"/>
+
 ✨ What is this?
 
 ChatGPT Stream Rescue is a Chrome extension that automatically restores the last assistant reply in ChatGPT when it gets removed by errors or moderation blocks.
