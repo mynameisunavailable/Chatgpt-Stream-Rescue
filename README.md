@@ -2,7 +2,7 @@ ChatGPT Stream Rescue
 
 Instantly restores the last ChatGPT assistant reply lost due to error or moderation. Temporary workaround against OpenAI's censorship.
 
-![promo](images/promotionicon.png)
+![promotionicon](images/promotionicon.png)
 
 ✨ What is this?
 
