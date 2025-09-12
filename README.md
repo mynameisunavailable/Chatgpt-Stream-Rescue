@@ -36,8 +36,8 @@ ChatGPT Stream Rescue is a Chrome extension that automatically restores the last
 
 📷 Screenshots
 <!-- [screenshot](screenshot1.png) ![screenshot](screenshot2.png) -->
-<img src="images/screenshot 1.png" alt="sc1" width="640"/>    
-<img src="images/screenshot 2.png" alt="sc2" width="640"/>
+![sc1](images/screenshot1.png)
+![sc2](images/screenshot2.png)
 
 🐾 Open Source
 
