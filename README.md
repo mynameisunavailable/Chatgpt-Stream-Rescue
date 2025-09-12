@@ -1,6 +1,6 @@
 ChatGPT Stream Rescue
 
-Instantly restores the last ChatGPT assistant reply lost due to errors or moderation.
+Instantly restores the last ChatGPT assistant reply lost due to moderation.
 
 ✨ What is this?
 
@@ -8,33 +8,29 @@ ChatGPT Stream Rescue is a Chrome extension that automatically restores the last
 
 🛠️ How it works
 
-When ChatGPT shows an error or moderation block and removes the last assistant reply, the extension instantly recovers and displays it above the error notice.
+1. When ChatGPT shows an error or moderation block and removes the last assistant reply, the extension recovers and displays it above the error notice.
 
-No setup required—just install and forget!
+2. No setup required—just install and forget!
 
-Restored reply disappears after you send a new message or reload the page.
+3. Restored reply disappears after you send a new message or reload the page.
 
 🔒 Privacy
 
-No data leaves your browser.
+1. No data leaves your browser.
 
-All recovery happens locally—nothing is uploaded, logged, or stored externally.
+2. All recovery happens locally. Nothing is uploaded, logged, or stored externally.
 
 ⚠️ Limitations
 
-Only the last removed assistant reply can be restored.
+1. Only the last removed assistant reply can be restored.
 
-Restored messages are temporary—they vanish after the next user input or a page refresh.
+2. Restored messages are temporary, they vanish after the next user input or a page refresh.
 
 💡 Why install?
 
-Stop losing valuable answers to glitches or moderation!
+1. Stop losing valuable answers to moderation!
 
-Frictionless, automatic, and private rescue of your lost content.
-
-Works on chat.openai.com
- and chatgpt.com
-.
+2. Frictionless, automatic, and private rescue of your lost content.
 
 📷 Screenshots
 <!-- [screenshot](screenshot1.png) ![screenshot](screenshot2.png) -->
@@ -45,15 +41,10 @@ No tracking, no analytics, no user data collection—just stream rescue.
 
 🚀 Installation
 
-Download or clone this repo.
+1. Download or clone this repo.
 
-Go to chrome://extensions/ and enable "Developer mode".
+2. Go to chrome://extensions/ and enable "Developer mode".
 
-Click "Load unpacked" and select this folder.
+3. Click "Load unpacked" and select this folder.
 
 Enjoy not losing your last ChatGPT reply!
-
-📝 Support / Feedback
-
-Issues or feature requests? Open an issue
- or contact the maintainer.
