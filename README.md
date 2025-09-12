@@ -47,6 +47,6 @@ No tracking, no analytics, no user data collection—just stream rescue.
 
 2. Go to chrome://extensions/ and enable "Developer mode".
 
-3. Click "Load unpacked" and select this folder.
+3. Click "Load unpacked" and select the "content" folder.
 
 Enjoy not losing your last ChatGPT reply!
