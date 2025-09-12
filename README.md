@@ -1,6 +1,6 @@
 ChatGPT Stream Rescue
 
-Instantly restores the last ChatGPT assistant reply lost due to moderation.
+Instantly restores the last ChatGPT assistant reply lost due to error or moderation.
 
 <img src="images/Promotion icon.png" alt="promo" width="420"/>
 
