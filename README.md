@@ -1,7 +1,8 @@
 ChatGPT Stream Rescue
 
 Instantly restores the last ChatGPT assistant reply lost due to error or moderation. Temporary workaround against OpenAI's censorship.
-[GET IT HERE](https://chromewebstore.google.com/detail/chatgpt-stream-rescue/kkfcejfkideffnolfllnfddlnklakeln?hl=en)
+
+[GET IT ON THE CHROMEWEBSTORE HERE](https://chromewebstore.google.com/detail/chatgpt-stream-rescue/kkfcejfkideffnolfllnfddlnklakeln?hl=en)
 
 ![promotionicon](images/promotionicon.png)
 
@@ -47,7 +48,9 @@ No tracking, no analytics, no user data collection—just stream rescue.
 
 🚀 Installation
 
-1. Download or clone this repo.
+0. [GET IT ON THE CHROMEWEBSTORE HERE](https://chromewebstore.google.com/detail/chatgpt-stream-rescue/kkfcejfkideffnolfllnfddlnklakeln?hl=en)
+
+1. Alternatively, download or clone this repo.
 
 2. Go to chrome://extensions/ and enable "Developer mode".
 
